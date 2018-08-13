@@ -5,5 +5,4 @@ var age = 29
 
 console.log("Name:"+name)
 
-console.log("Age:")
-console.log(age + 1)
+console.log("Age:")console.log(age + 1)
